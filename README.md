@@ -2,7 +2,7 @@
 
 > AI is in the same early stage as Bitcoin in 2011. The ones building now will be the ones who lead later.
 
-### A 30 day study plan with resources to covering AI agents, automation, and workflows
+### A 30 day study plan with resources covering AI agents, automation, and workflows
 1. Transformers
 2. Huggingface
 3. Langchain
