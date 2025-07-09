@@ -3,31 +3,44 @@
 > AI is in the same early stage as Bitcoin in 2011. The ones building now will be the ones who lead later.
 
 ### A 30 day study plan with resources covering AI agents, automation, and workflows
-1. Transformers
-2. Huggingface
-3. Langchain
-4. Llamaindex
-5. Haystack
-6. Vector DBs
-7. few-shot learning
-8. RAG
-9. AutoGPT, LangGraph
-10. Tree of thoughts, ReAct
-11. Fine state machines
-12. REST, Webhooks
-13. gRCP
-14. Selenium, puppeteer, playwright
-15. Replicate
-16. AutoGen, WebLLM, smol-ai
-17. UI path, Automation anywhere, Robocorp
-18. Celery, temporal, airflow
-19. Webhooks, Cron jobs, Zapier integration
-20. aws lambda, GCP cloud functions
-21. Orchestation engines - Haystack pipelines, Airflow, Dagster
-22. Data flow tools - apache kafka, Redis, RabbitMQ
-23. FastAPI
-24. Flask
-25. Torchserve
-26. Docker, Kubernetes
-27. Huggingface spaces 
-    
+
+## LLMs and Foundation Tools
+1. Transformers  
+2. Hugging Face  
+3. Few-shot Learning  
+4. RAG (Retrieval-Augmented Generation)  
+5. Vector Databases – FAISS, Chroma, Weaviate, Pinecone  
+
+## Agent Frameworks and Reasoning
+6. LangChain  
+7. LlamaIndex  
+8. Haystack  
+9. LangGraph and AutoGPT  
+10. Tree of Thoughts, ReAct  
+11. Finite State Machines  
+12. Model Context Protocol (optional)  
+
+## Tool Usage and Communication
+13. REST APIs and Webhooks  
+14. gRPC  
+15. FastAPI  
+16. Flask  
+17. Replicate (Model as API)  
+18. Hugging Face Spaces (Model Deployment)  
+
+## Automation Frameworks
+19. Selenium, Puppeteer, Playwright (Web Automation)  
+20. UIPath, Automation Anywhere, Robocorp (Enterprise RPA)  
+21. AutoGen, WebLLM, smol-ai (Autonomous agents)  
+22. Zapier, n8n, Webhooks, CRON Jobs  
+23. AWS Lambda, GCP Cloud Functions  
+
+## Orchestration and Scheduling
+24. Celery, Temporal, Airflow  
+25. Haystack Pipelines, Dagster, LangGraph  
+26. Apache Kafka, Redis Streams, RabbitMQ  
+
+## Serving and Deployment
+27. TorchServe  
+28. Docker  
+29. Kubernetes  
